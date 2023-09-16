@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, my name is Antonin Ginet</h1>
-<h3 align="center">A passionate frontend developer from France <img src="svg/france.svg" alt="" width="40" height="40" /></h3>
+<h1 align="center">Hi 🙋 my name is Antonin Ginet</h1>
+<h3 align="center">A passionate frontend developer from France <img src="svg/france.svg" alt="" width="20" height="20" /></h3>
 
 <h3>Connect with me:</h3>
 <p>
