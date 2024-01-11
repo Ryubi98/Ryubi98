@@ -1,45 +1,25 @@
-<h1 align="center">Hi 🙋 my name is Antonin Ginet</h1>
-<h3 align="center">A passionate frontend developer from <img src="svg/france.svg" alt="France" width="30" height="30" /></h3>
+# > Hi there, I'm Antonin Ginet 🙋
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://github.com/Ryubi98" target="_blank">
-    <img src="svg/github.svg" alt="Github - Ryubi98" width="40" height="40"/>
-  </a>
-  <a href="https://gitlab.com/Ryubi98" target="_blank">
-    <img src="svg/gitlab.svg" alt="Gitlab - Ryubi98" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/antonin-ginet" target="_blank">
-    <img src="svg/linkedin.svg" alt="LinkedIn - antonin-ginet" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/Ryubi98" target="_blank">
-    <img src="svg/leetcode.svg" alt="LeetCode - Ryubi98" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3>Languages:</h3>
-<h3>Frameworks:</h3>
-<h3>Databases:</h3>
-<h3>Cloud:</h3>
-<h3>Tools:</h3>
-<h3>Operating systems:</h3>
-<p>
-  <a href="" target="_blank">
-    <img src="" alt="" width="40" height="40"/>
-  </a>
-</p>
+### A full-stack engineer from <img src="svg/france.svg" alt="France" width="20" height="20" />
 
-<!--
-**Ryubi98/Ryubi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate 🥰 about creating technological solutions, I have expertise in all phases of the software development cycle 🔁. My commitment to quality code production 💪, my problem-solving skills 🧐 and my ability to adapt to different technologies, languages and frameworks make me a versatile and reliable professional 🤯. I am ✨ enthusiastic ✨ about contributing to stimulating environments and working in collaboration with motivated teams ❤️.
 
-Here are some ideas to get you started:
+### 🤝 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=Linkedin&logoColor=white)](https://linkedin.com/in/antonin-ginet)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=white)](https://github.com/Ryubi98)
+[![GitLab](https://img.shields.io/badge/GitLab-E24329?logo=gitlab&logoColor=white)](https://gitlab.com/Ryubi98)
+[![Portfolio](https://img.shields.io/badge/Portfolio-323B4C?logo=gnometerminal&logoColor=white)](https://ryubi98.github.io/portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-fea116?logo=leetcode&logoColor=white)](https://leetcode.com/Ryubi98)
+
+### 👀 More about me
+
+- 🔭 I’m currently working [@Karetis](https://www.linkedin.com/company/karetis)
+- 🌱 I’m always trying to learn new cool stuffs
+- 📫 How to reach me: [antonin.ginet98@gmail.com](mailto:antonin.ginet@gmail.com?subject=[GITHUB])
+
+### 📈 My GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryubi98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
