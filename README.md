@@ -1,10 +1,10 @@
 # > Hi there, I'm Antonin Ginet 🙋
 
-### A full-stack engineer from <img src="svg/france.svg" alt="France" width="20" height="20" />
+### A Full-Stack Engineer from <img src="svg/france.svg" alt="France" width="20" height="20" />
 
 Passionate 🥰 about creating technological solutions, I have expertise in all phases of the software development cycle 🔁. My commitment to quality code production 💪, my problem-solving skills 🧐 and my ability to adapt to different technologies, languages and frameworks make me a versatile and reliable professional 🤯. I am ✨ enthusiastic ✨ about contributing to stimulating environments and working in collaboration with motivated teams ❤️.
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=Linkedin&logoColor=white)](https://linkedin.com/in/antonin-ginet)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=white)](https://github.com/Ryubi98)
