@@ -13,8 +13,8 @@ Passionate about developing applications and solving problems. I enjoy working i
 
 ### 🤝 Socials
 
-<a href="https://linkedin.com/in/antonin-ginet"><img src="./svg/linkedin.svg" alt="LinkedIn" width="30" height="30" /></a>
-<a href="https://discord.com/users/Ryubi98"><img src="./svg/discord.svg" alt="Discord" width="30" height="30" /></a>
-<a href="https://leetcode.com/Ryubi98"><img src="./svg/leetcode.svg" alt="LeetCode" width="30" height="30" /></a>
-<a href="https://github.com/Ryubi98"><img src="./svg/github.svg" alt="GitHub" width="30" height="30" /></a>
-<a href="https://gitlab.com/Ryubi98"><img src="./svg/gitlab.svg" alt="GitLab" width="30" height="30" /></a>
+<a href="https://linkedin.com/in/antonin-ginet"><img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" /></a>
+<a href="https://discord.com/users/Ryubi98"><img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/discord.svg" alt="Discord" width="30" height="30" /></a>
+<a href="https://leetcode.com/Ryubi98"><img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/leetcode.svg" alt="LeetCode" width="30" height="30" /></a>
+<a href="https://github.com/Ryubi98"><img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/github.svg" alt="GitHub" width="30" height="30" /></a>
+<a href="https://gitlab.com/Ryubi98"><img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/gitlab.svg" alt="GitLab" width="30" height="30" /></a>
