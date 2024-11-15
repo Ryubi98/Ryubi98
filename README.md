@@ -1,6 +1,6 @@
 # > Hi there, my name is Antonin Ginet 🙋
 
-### A Full-Stack Engineer from <img src="svg/france.svg" alt="France" width="20" height="20" />
+### A Full-Stack Engineer from <img src="https://raw.githubusercontent.com/Ryubi98/Ryubi98/d978e930f3bd8be54e042ae27b5c1195e15a882e/svg/france.svg" alt="France" width="20" height="20" />
 
 Passionate about developing applications and solving problems. I enjoy working in innovative and stimulating environments that encourage continuous learning and team spirit.
 
