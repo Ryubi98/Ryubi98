@@ -6,7 +6,7 @@ Passionate about developing applications and solving problems. I enjoy working i
 
 ### 👀 More about me
 
-- 🖥️ See my portfolio at [portfolio.ryubi.fr](portfolio.ryubi.fr)
+- 🖥️ See my portfolio at [portfolio.ryubi.fr](https://portfolio.ryubi.fr)
 - 📫 You can contact me at [agi.pro@ryubi.fr](mailto:agi.pro@ryubi.fr)
 - 🧠 I’m currently working [@Karetis](https://www.linkedin.com/company/karetis)
 - ⚡ I love exploring and learning new cool stuffs
